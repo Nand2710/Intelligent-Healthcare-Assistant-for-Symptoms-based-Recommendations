@@ -130,5 +130,5 @@ The project includes the following datasets:
 Contributions are welcome! Fork the repository, create a branch, and submit your pull request.
 
 ## Contact
-- Name: Rahul Rajshekhar Yadwad
-- Email: [rahulyadwad1718@gmail.com]
+- Name: Nandkishor Ambadas Yele
+- Email: [nandkishoryele479@gmail.com]
